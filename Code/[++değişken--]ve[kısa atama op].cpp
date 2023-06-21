@@ -1,11 +1,11 @@
 #include<stdio.h>
 
-/* önden ve arkadan arttýrma operatörü
+/* ï¿½nden ve arkadan arttï¿½rma operatï¿½rï¿½
 
-deðiþken++ iþlem gerçekleþtikten sonra 1 arttýrma
-deðiþken-- iþlem gerçekleþtikten sonra 1 azaltma
---deðiþken iþlem gerçekleþmeden 1 azaltma 
-++deðiþken iþlem gerçekleþmeden sonra 1 arttýrma
+deï¿½iï¿½ken++ iï¿½lem gerï¿½ekleï¿½tikten sonra 1 arttï¿½rma
+deï¿½iï¿½ken-- iï¿½lem gerï¿½ekleï¿½tikten sonra 1 azaltma
+--deï¿½iï¿½ken iï¿½lem gerï¿½ekleï¿½meden 1 azaltma 
+++deï¿½iï¿½ken iï¿½lem gerï¿½ekleï¿½meden sonra 1 arttï¿½rma
 
 */
 main() {
@@ -21,7 +21,7 @@ d=c++;
  printf("%d\n",d);
   printf("%d\n",c);
   
-  // + ,önde olduðu için önce yapýlmasý gereken iþlemi gerçekleþtirdi sonra artmasý gereken deðeri arttýrdý.
+  // + ,ï¿½nde olduï¿½u iï¿½in ï¿½nce yapï¿½lmasï¿½ gereken iï¿½lemi gerï¿½ekleï¿½tirdi sonra artmasï¿½ gereken deï¿½eri arttï¿½rdï¿½.
   int x,y,z;
   x=20;
   y=5;
@@ -33,17 +33,17 @@ int e,n,m;
 e=20;
 n=5;
 m= --e+n;
-//önce 1 azaltma iþlemi gerçekleþtirildi daha sonra diðer iþlem
+//ï¿½nce 1 azaltma iï¿½lemi gerï¿½ekleï¿½tirildi daha sonra diï¿½er iï¿½lem
  printf("%d\n",m);
  printf("%d\n",n);
 
 //----------------------------------------------------------------------------------------------//
 
- /* ARÝTMATÝKSEL ATAMA OPERATÖRLERÝ
+ /* ARï¿½TMATï¿½KSEL ATAMA OPERATï¿½RLERï¿½
 TOPLAYARAK atama: (+=)
-ÇIKARARAK atama: (-=)
-ÇARPARAK atama: (*=)
-BÖLEREK atama: (/0=)
+ï¿½IKARARAK atama: (-=)
+ï¿½ARPARAK atama: (*=)
+Bï¿½LEREK atama: (/0=)
 */
 
 
@@ -61,61 +61,4 @@ q/=5;
  
         
 }
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
