@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<time.h>
 
-int main(){
+void main(){
     int skor = 0,sonuc = 0, secim = 0, oyuncu_secim = 0;
     int max = 2,min = 0;
 

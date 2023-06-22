@@ -4,7 +4,7 @@
 
 // sleep fonksiyonunu kullanarak bir saat yap
 
-int main(){
+void main(){
     for(int saat = 0; saat < 24; saat++){
         for(int dakika = 0; dakika < 60; dakika++){
             for(int saniye = 0; saniye < 60; saniye++){
@@ -14,5 +14,4 @@ int main(){
             };
         };
     };
-    return 0;
 };
