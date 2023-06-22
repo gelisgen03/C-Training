@@ -27,15 +27,3 @@ printf("%d) %d\n",a+1,array[a]);
 
 return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-

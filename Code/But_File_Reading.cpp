@@ -36,12 +36,7 @@ dosya=fopen("C:\\Users\\gelis\\Desktop\\But_Denemes.txt","w");
  	fprintf(dosya,"%d\n",a);
  }
 
-	
-
-
 fclose(dosya);
-		
-	
 	
 	return 0;
 }

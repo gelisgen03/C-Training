@@ -22,20 +22,6 @@ int main(){
 }
 	printf("%s",b);
 	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	return 0;
 }
 

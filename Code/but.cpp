@@ -13,8 +13,6 @@ int main(){
     for(i=0;i<b;i++){
         printf("%d. Sayi: ",i+1);
         scanf("%d",&a[i]);
-
-
     }
     printf("\n");
     for(i=0;i<b;i++)
@@ -42,17 +40,6 @@ int main(){
      printf("\n");
     for(i=0;i<b+e;i++)
         printf("%d. Sayi: %d\n",i+1,a[i]);	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	return 0;
 }
