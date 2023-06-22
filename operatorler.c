@@ -44,6 +44,16 @@ void main() {
     };
     printf("\n");
 
+    // Pointer Operatorleri
+
+    int * p; 
+
+    p = &a; // Adres 
+    printf("%p\n",p);
+
+    a = *p; // Dereference
+    printf("%d\n",a);
+
     // Bit Operatorleri 
 
     a = 10; // 1010
