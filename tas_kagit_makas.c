@@ -14,7 +14,7 @@ void main(){
 
         secim = rand() % (max + 1 - min) + min; 
 
-        sonuc = abs(oyuncu_secim - secim);
+        sonuc = oyuncu_secim - secim;
 
         if(sonuc == 0){
             printf("Berabere");
