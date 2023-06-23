@@ -3,7 +3,7 @@
 // Kullanıcıdan alınan sayılarla 3x3 boyutunda 2D matris olustur
 
 void main(){
-    int array[10][10];
+    int array[3][3];
 
     for(int y = 0; y < 3; y++){
         for(int x = 0; x < 3; x++){
