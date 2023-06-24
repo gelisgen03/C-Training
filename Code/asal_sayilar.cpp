@@ -25,7 +25,7 @@ int main(){
 // Sayi asal ise 1 
 // Degilse 0 
 int asal_mi(int sayi){
-	for(int i = 2; i <= sayi/2; i++){
+    for(int i = 2; i <= sayi/2; i++){
         if(sayi % i == 0){
             return 0;
         };
